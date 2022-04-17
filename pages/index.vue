@@ -24,6 +24,10 @@ export default {
     quoteNumber: ''
   }),
 
+  created() {
+    this.fetchAdvice();
+  },
+
   methods: {
     fetchAdvice() {
       axios
