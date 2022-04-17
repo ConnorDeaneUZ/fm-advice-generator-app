@@ -1,5 +1,3 @@
-# to-do_tracker
-
 ## Build Setup
 
 ```bash
